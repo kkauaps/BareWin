@@ -1,0 +1,12 @@
+bin/
+obj/
+dist/
+*.exe
+*.msi
+*.wixpdb
+*.user
+.vs/
+*.log
+out/
+publish/
+installer/
